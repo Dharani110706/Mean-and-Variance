@@ -1,9 +1,8 @@
 ## Developed by : DHARANI SREE P
 ## Register number : 212224040071
 ## Department : B.E.(CSE)
-## Date : 29/04/2025
-                                                  
-                                                  
+
+                                                                                                    
 #  Mean and variance of a discrete  distribution
 
 # Aim : 
@@ -54,11 +53,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-```
+
 Developed by : DHARANI SREE P
 Register number : 212224040071
 Department : B.E.(CSE)
-```
+
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
